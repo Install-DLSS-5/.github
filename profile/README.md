@@ -174,14 +174,6 @@ Check the following:
 
 If the setting is missing, the game may simply not have DLSS 5 support yet.
 
-### DLSS 5 Download Does Not Work
-
-Make sure the download completed correctly.
-
-If Windows reports that a downloaded file is unsafe or corrupted, do not disable Windows security simply to force the installation.
-
-Instead, verify that the file came from a trusted source.
-
 ### I Have an RTX GPU but Cannot Enable DLSS 5
 
 Not every RTX graphics card supports every DLSS feature.
